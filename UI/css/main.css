@@ -1,0 +1,25 @@
+/*====================================================================
+*
+*  A little house keeping
+*
+ =====================================================================*/
+*{
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+    line-height: 1.5;
+}
+
+.container{
+    max-width: 1012px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 0;
+}
+
+a{
+    text-decoration: none;
+}
